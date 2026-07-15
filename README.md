@@ -53,20 +53,12 @@ Sou o João — também conhecido como Bode. Entre uma partida e outra, gosto de
   </a>
 </div>
 
-<br />
-
-<div align="center">
-  <a href="https://github.com/jvvtr/mentor-de-dados">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jvvtr&repo=mentor-de-dados&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=C9C9C9&icon_color=FFFFFF" alt="Projeto Mentor de Dados" />
-  </a>
-</div>
-
 ## Atividade no GitHub
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jvvtr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=C9C9C9&icon_color=FFFFFF" alt="Estatísticas do GitHub de João Velloso" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvvtr&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=C9C9C9" alt="Linguagens mais usadas" />
-</div>
+Prefiro deixar os projetos falarem por si. Aqui você vai encontrar estudos, experimentos e ferramentas que mostram um pouco do que venho aprendendo e construindo.
+
+- [Explorar todos os repositórios →](https://github.com/jvvtr?tab=repositories)
+- [Conhecer o Mentor de Dados →](https://github.com/jvvtr/mentor-de-dados)
 
 ---
 
