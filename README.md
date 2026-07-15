@@ -5,7 +5,7 @@
 
   # João Velloso · Data, Analytics & AI
 
-  ### Transformo dados em decisões, automações inteligentes e produtos analíticos.
+  ### Gosto de transformar dados em decisões mais claras e tecnologia em experiências úteis.
 
   <a href="https://github.com/jvvtr?tab=repositories"><img src="https://img.shields.io/badge/Explorar%20repositórios-%E2%86%92-111111?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios" /></a>
   <a href="https://github.com/jvvtr"><img src="https://img.shields.io/badge/Perfil-GitHub-4B5563?style=for-the-badge&logo=github&logoColor=white" alt="Perfil no GitHub" /></a>
@@ -13,11 +13,11 @@
 
 ---
 
-## Minha abordagem
+## Um pouco sobre mim
 
-Uno pensamento analítico e referências do universo dos games para explorar cenários, testar estratégias e transformar informação em vantagem. Minha atuação está na interseção entre **Analytics**, **Databricks** e **Inteligência Artificial aplicada**.
+Sou o João — também conhecido como Bode. Entre uma partida e outra, gosto de entender as histórias que os dados contam, testar caminhos e transformar ideias em algo que realmente ajude alguém. É assim que encontro meu espaço entre **Analytics**, **Databricks** e **Inteligência Artificial aplicada**.
 
-> **Foco atual:** transformar perguntas complexas em experiências simples, visuais e acionáveis — com dados, agentes de IA e produtos analíticos.
+> **No momento:** explorando como dados, agentes de IA e bons produtos analíticos podem tornar perguntas difíceis um pouco mais simples de responder.
 
 ## Stack de tecnologia
 
@@ -33,14 +33,14 @@ Uno pensamento analítico e referências do universo dos games para explorar cen
   <img src="https://img.shields.io/badge/SQL-374151?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </div>
 
-## Experiências em destaque
+## O que gosto de construir
 
-| Área | O que construo |
+| Área | Como isso aparece nos projetos |
 | :-- | :-- |
-| **Analytics & BI** | Dashboards no **Tableau** e **Power BI** que saem do número solto e entregam contexto para a decisão. |
-| **Lakehouse & Databricks** | Explorações de dados, notebooks e soluções usando o ecossistema Databricks, incluindo **Genie Spaces** e aplicativos. |
-| **Agentes de IA** | Agentes que auxiliam tarefas, organizam conhecimento e aproximam pessoas das respostas que procuram. |
-| **Data Engineering** | Projetos com SQL, Apache Spark e práticas que ajudam a transformar dados brutos em produtos confiáveis. |
+| **Analytics & BI** | Dashboards no **Tableau** e **Power BI** que não mostram apenas números: ajudam a enxergar o que importa para decidir melhor. |
+| **Lakehouse & Databricks** | Estudos e soluções no ecossistema Databricks — de notebooks a **Genie Spaces** e aplicativos que deixam os dados mais acessíveis. |
+| **Agentes de IA** | Agentes que organizam conhecimento, apoiam tarefas e aproximam as pessoas das respostas de que precisam. |
+| **Data Engineering** | Projetos com SQL e Apache Spark, sempre buscando transformar dados brutos em algo confiável, claro e reutilizável. |
 
 ## Comece por aqui
 
@@ -71,7 +71,7 @@ Uno pensamento analítico e referências do universo dos games para explorar cen
 ---
 
 <div align="center">
-  <sub>Dados são evidência. Curiosidade é estratégia. Vamos construir o próximo nível.</sub>
+  <sub>Dados dão pistas. Curiosidade abre caminhos. Vamos construir o próximo nível.</sub>
   <br /><br />
   <a href="https://github.com/jvvtr?tab=repositories"><strong>Explorar repositórios</strong></a>
 </div>
