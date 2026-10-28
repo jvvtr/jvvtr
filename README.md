@@ -1,69 +1,45 @@
 <div align="center">
-  <a href="https://github.com/jvvtr?tab=repositories">
-    <img src="assets/data-analytics-ai-banner.png" alt="Universo profissional unindo analytics, inteligência artificial e games" width="100%" />
-  </a>
+  <img src="assets/data-analytics-ai-banner.png" alt="Gráficos, rede de dados e controle de videogame em preto e cinza" width="100%" />
 
-  # João Velloso · Data, Analytics & AI
+  # João Velloso
 
-  ### Gosto de transformar dados em decisões mais claras e tecnologia em experiências úteis.
+  **Analytics · Dados · Inteligência Artificial**
 
-  <a href="https://github.com/jvvtr?tab=repositories"><img src="https://img.shields.io/badge/Explorar%20repositórios-%E2%86%92-111111?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios" /></a>
-  <a href="https://github.com/jvvtr"><img src="https://img.shields.io/badge/Perfil-GitHub-4B5563?style=for-the-badge&logo=github&logoColor=white" alt="Perfil no GitHub" /></a>
+  [Projetos em destaque](#projetos-em-destaque) · [Tecnologias](#tecnologias-e-áreas-de-interesse) · [Todos os repositórios](https://github.com/jvvtr?tab=repositories)
 </div>
 
 ---
 
-## Um pouco sobre mim
+## Projetos em destaque
 
-Sou o João — também conhecido como Bode. Entre uma partida e outra, gosto de entender as histórias que os dados contam, testar caminhos e transformar ideias em algo que realmente ajude alguém. É assim que encontro meu espaço entre **Analytics**, **Databricks** e **Inteligência Artificial aplicada**.
+### [V.O.R.A — Previsão de horas extras](https://github.com/jvvtr/V.O.R.A)
 
-> **No momento:** explorando como dados, agentes de IA e bons produtos analíticos podem tornar perguntas difíceis um pouco mais simples de responder.
+Demonstração pública de previsão mensal e explicabilidade de modelos de árvores, com painel em Streamlit. O projeto utiliza **dados e modelo sintéticos**, permitindo explorar o método sem expor informações reais.
 
-## Stack de tecnologia
+**Em foco:** Python · Streamlit · previsão · explicabilidade
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Tableau-111111?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Databricks-111111?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-111111?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <br />
-  <img src="https://img.shields.io/badge/AI%20Agents-374151?style=for-the-badge&logo=openai&logoColor=white" alt="Agentes de IA" />
-  <img src="https://img.shields.io/badge/Genie%20Spaces-374151?style=for-the-badge&logo=databricks&logoColor=white" alt="Genie Spaces" />
-  <img src="https://img.shields.io/badge/Databricks%20Apps-374151?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Apps" />
-  <img src="https://img.shields.io/badge/SQL-374151?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</div>
+### [Mentor de Dados — de SQL para Spark](https://github.com/jvvtr/mentor-de-dados)
 
-## O que gosto de construir
+Aplicativo educacional gratuito que conecta conhecimentos de SQL aos conceitos de Apache Spark e PySpark, com aulas, exercícios e um laboratório no navegador.
 
-| Área | Como isso aparece nos projetos |
-| :-- | :-- |
-| **Analytics & BI** | Dashboards no **Tableau** e **Power BI** que não mostram apenas números: ajudam a enxergar o que importa para decidir melhor. |
-| **Lakehouse & Databricks** | Estudos e soluções no ecossistema Databricks — de notebooks a **Genie Spaces** e aplicativos que deixam os dados mais acessíveis. |
-| **Agentes de IA** | Agentes que organizam conhecimento, apoiam tarefas e aproximam as pessoas das respostas de que precisam. |
-| **Data Engineering** | Projetos com SQL e Apache Spark, sempre buscando transformar dados brutos em algo confiável, claro e reutilizável. |
+**Em foco:** SQL · Spark · PySpark · educação  
+[Repositório](https://github.com/jvvtr/mentor-de-dados) · [Abrir o aplicativo](https://jvvtr.github.io/mentor-de-dados/)
 
-## Comece por aqui
+### [CalcTeyvat — planejamento para Genshin Impact](https://github.com/jvvtr/Project-CalcTeyvat)
 
-<div align="center">
-  <a href="https://github.com/jvvtr/mentor-de-dados">
-    <img src="https://img.shields.io/badge/Mentor%20de%20Dados-SQL%20%E2%86%92%20Spark-111111?style=for-the-badge&logo=apachespark&logoColor=white" alt="Abrir o projeto Mentor de Dados" />
-  </a>
-  <a href="https://github.com/jvvtr?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver%20todos%20os%20repositórios-%E2%86%92-4B5563?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os repositórios" />
-  </a>
-</div>
+Ferramenta de fã para organizar objetivos de personagens, materiais e atividades de jogo em uma agenda local.
 
-## Atividade no GitHub
+**Em foco:** aplicação web · planejamento · games
 
-Prefiro deixar os projetos falarem por si. Aqui você vai encontrar estudos, experimentos e ferramentas que mostram um pouco do que venho aprendendo e construindo.
+## Tecnologias e áreas de interesse
 
-- [Explorar todos os repositórios →](https://github.com/jvvtr?tab=repositories)
-- [Conhecer o Mentor de Dados →](https://github.com/jvvtr/mentor-de-dados)
+- **Analytics e visualização:** Tableau e Power BI.
+- **Plataformas de dados:** Databricks, Genie Spaces, Databricks Apps, SQL e Spark.
+- **Inteligência artificial:** criação e experimentação de agentes de IA.
+- **Desenvolvimento:** aplicações e ferramentas para dados, educação e games.
 
----
+## Outros estudos
 
-<div align="center">
-  <sub>Dados dão pistas. Curiosidade abre caminhos. Vamos construir o próximo nível.</sub>
-  <br /><br />
-  <a href="https://github.com/jvvtr?tab=repositories"><strong>Explorar repositórios</strong></a>
-</div>
+Exercícios de [JavaScript](https://github.com/jvvtr/Estudos-em-JavaScript), [HTML](https://github.com/jvvtr/Estudos-de-HTML) e [orientação a objetos](https://github.com/jvvtr/Estudos-Orienta-Objeto), além de um projeto de [ponto eletrônico](https://github.com/jvvtr/Crud-PontoEletronico).
+
+[**Explorar todos os repositórios →**](https://github.com/jvvtr?tab=repositories)
